@@ -1,0 +1,28 @@
+﻿Построение начато 26.11.2016 17:12:08.
+Проект "C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\blackjack\blackjack\blackjack.vcxproj" в узле 2 (целевые объекты build).
+InitializeBuildStatus:
+  Создание "Debug\blackjack.unsuccessfulbuild", так как было задано "AlwaysCreate".
+ClCompile:
+  E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Blackjack.cpp
+  Blackjack.cpp
+Link:
+  E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\blackjack\Debug\blackjack.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\blackjack.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\blackjack\Debug\blackjack.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\blackjack\Debug\blackjack.lib" /MACHINE:X86 Debug\Blackjack.obj
+  Debug\Card.obj
+  Debug\Dealer.obj
+  Debug\Deck.obj
+  Debug\Deckpile.obj
+  Debug\Hand.obj
+  Debug\main.obj
+  Debug\Player.obj
+  LINK : не найден или не выполнена сборка C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\blackjack\Debug\blackjack.exe при последней инкрементной компоновке; выполняется полная компоновка
+  blackjack.vcxproj -> C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\blackjack\Debug\blackjack.exe
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\blackjack\Debug\blackjack.exe;#1" /manifest Debug\blackjack.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Файл "Debug\blackjack.unsuccessfulbuild" удаляется.
+  Обращение к "Debug\blackjack.lastbuildstate".
+Построение проекта "C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\blackjack\blackjack\blackjack.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.50
